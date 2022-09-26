@@ -1,19 +1,18 @@
-
 # E-Commerce_API
 
 It's very basic e-commerce-api
 
-
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Api
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+| All Api Requests
+| ----------------------------------------------------
+| ![App Screenshot](</screenshots/Screenshot%20(15).png>)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-
+| Create Order                                            |                          Order                          |                        OrderById                        |
+| ------------------------------------------------------- | :-----------------------------------------------------: | :-----------------------------------------------------: |
+| ![App Screenshot](</screenshots/Screenshot%20(12).png>) | ![App Screenshot](</screenshots/Screenshot%20(13).png>) | ![App Screenshot](</screenshots/Screenshot%20(14).png>) |
 
 ## Features
 
@@ -24,9 +23,11 @@ It's very basic e-commerce-api
 - Get monthly income
 
 ### Client
+
 - View products
 - Add to cart
 - Get the cart products
+
 ## How to run
 
 1 - Clone the repo by running (`git clone https://github.com/amrmahmoud20/E-Commerce_API_NodeJS.git`)
@@ -37,7 +38,7 @@ It's very basic e-commerce-api
 - PASS_SEC
 - JWT_SEC
 
-3 - create folder called `config` in the **main directory** and put the `.env` file in it 
+3 - create folder called `config` in the **main directory** and put the `.env` file in it
 
 4 - run `mongodb` and `npm run dev`
 
