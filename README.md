@@ -40,6 +40,4 @@ It's very basic e-commerce-api
 
 3 - create folder called `config` in the **main directory** and put the `.env` file in it
 
-4 - run `mongodb` and `npm run dev`
-
-### Enjoy
+4 - `npm run dev` and ### Enjoy
